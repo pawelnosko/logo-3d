@@ -257,7 +257,7 @@ vec3 p = position + aSand.xyz * e;</code></pre>
 <p>I'm a web developer working on e-commerce systems, custom extensions, JavaScript applications, and interactive web experiences.</p>
 <ul>
 <li>
-<p><a href="https://pawelnosko.com/js-frontend-tools/jak-zamienic-model-3d-w-piasek-interaktywny-rozpad-i-rekonstrukcja-obiektow-w-three-js-i-webgl">Project Website</a></p>
+<p><a href="https://pawelnosko.com/js-frontend-tools/how-to-turn-a-3d-model-into-sand-object-disintegration-and-reconstruction-with-three-js-webgl-and-glsl">Project Website</a></p>
 </li>
 <li>
 <p><a href="https://www.designcart.pl/pawel-nosko.html">Paweł Nosko — Author Profile</a></p>
